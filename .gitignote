@@ -1,5 +1,5 @@
-/info/node_modules
-/info/build
+./info/node_modules
+./info/build
 
-/newscycle/node_modules
-/newscycle/build
+./newscycle/node_modules
+./newscycle/build
